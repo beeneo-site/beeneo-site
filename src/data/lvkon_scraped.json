@@ -1,0 +1,102 @@
+[
+  {
+    "model": "TED1020",
+    "vehicleType": "4.5 - 6t Truck",
+    "transmission": "Two-Speed Transmission: 2.7/1",
+    "powerTorque": "170/380Nm\n55/120kW",
+    "maxSpeed": "6000rpm",
+    "maxOutput": "1026Nm",
+    "imgUrl": null,
+    "imgFilename": "lvkon_scraped_1.jpg"
+  },
+  {
+    "model": "TED1360",
+    "vehicleType": "4.5 - 7t Truck",
+    "transmission": "Two-Speed Transmission: 2.73/1",
+    "powerTorque": "300/500Nm\n60/120kW",
+    "maxSpeed": "5000rpm",
+    "maxOutput": "1365Nm",
+    "imgUrl": null,
+    "imgFilename": "lvkon_scraped_3.jpg"
+  },
+  {
+    "model": "TED2330S",
+    "vehicleType": "7 - 12t Truck",
+    "transmission": "Two-Speed Transmission: 2.741/1",
+    "powerTorque": "350/850Nm\n75/120kw",
+    "maxSpeed": "5000rpm",
+    "maxOutput": "2330Nm",
+    "imgUrl": null,
+    "imgFilename": "lvkon_scraped_5.jpg"
+  },
+  {
+    "model": "TED3010S",
+    "vehicleType": "8 - 10m passenger bus, 10-m public bus 11 - 14t truck",
+    "transmission": "Two-Speed Transmission: 2.741/1",
+    "powerTorque": "500/1100Nm\n80/160kW",
+    "maxSpeed": "4500rpm",
+    "maxOutput": "3015Nm",
+    "imgUrl": null,
+    "imgFilename": "lvkon_scraped_7.jpg"
+  },
+  {
+    "model": "TED3380S",
+    "vehicleType": "10-m passenger bus, 12-m public bus",
+    "transmission": "Two-Speed Transmission: 2.741/1",
+    "powerTorque": "500/1300Nm\n120/185kW",
+    "maxSpeed": "3500rpm",
+    "maxOutput": "3380Nm",
+    "imgUrl": null,
+    "imgFilename": "lvkon_scraped_9.jpg"
+  },
+  {
+    "model": "TED7000S",
+    "vehicleType": "14 - 18t truck, special-purpose vehicle",
+    "transmission": "Four-Speed Transmission: 6.61/3.52/1.89/1",
+    "powerTorque": "500/1100Nm\n100/185kW",
+    "maxSpeed": "3500rpm",
+    "maxOutput": "7000Nm",
+    "imgUrl": null,
+    "imgFilename": "lvkon_scraped_11.jpg"
+  },
+  {
+    "model": "HTED16000",
+    "vehicleType": "25 - 30t heavy-duty truck",
+    "transmission": "Four-Speed Transmission: 8.39/3.54/1.74/1",
+    "powerTorque": "850Nm/1950Nm\n180/300kW",
+    "maxSpeed": "3500rpm",
+    "maxOutput": "16360Nm",
+    "imgUrl": null,
+    "imgFilename": "lvkon_scraped_13.jpg"
+  },
+  {
+    "model": "HTED20000L",
+    "vehicleType": "35 - 60t heavy-duty truck",
+    "transmission": "Four-Speed Transmission: 8.39/3.54/1.74/1",
+    "powerTorque": "1500Nm/2400Nm\n270/405kW",
+    "maxSpeed": "3500rpm",
+    "maxOutput": "20136Nm",
+    "imgUrl": null,
+    "imgFilename": "lvkon_scraped_15.jpg"
+  },
+  {
+    "model": "HTED20000L2",
+    "vehicleType": "31 - 49t heavy-duty truck",
+    "transmission": "Four-Speed Transmission: 8.39/3.54/1.74/1",
+    "powerTorque": "1200Nm/2400Nm\n250/380kW",
+    "maxSpeed": "3500rpm",
+    "maxOutput": "20136Nm",
+    "imgUrl": null,
+    "imgFilename": "lvkon_scraped_17.jpg"
+  },
+  {
+    "model": "HTED20000H",
+    "vehicleType": "60 - 90t heavy-duty truck",
+    "transmission": "Four-Speed Transmission: 8.39/3.54/1.74/1",
+    "powerTorque": "1500Nm/2400Nm\n300/450kW",
+    "maxSpeed": "3500rpm",
+    "maxOutput": "20136Nm",
+    "imgUrl": null,
+    "imgFilename": "lvkon_scraped_19.jpg"
+  }
+]

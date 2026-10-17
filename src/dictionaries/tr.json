@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "engineering": "Mühendislik",
+    "sureneo": "sureNEO LOS",
+    "lvkon": "Lvkon E-Mobilite",
+    "about": "Hakkımızda",
+    "career": "Kariyer",
+    "blog": "Blog & Medya",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "badge": "T.C. SANAYİ VE TEKNOLOJİ BAKANLIĞI TEKNOGİRİŞİM ROZETİ SAHİBİ | TGB %0 KDV MUAFİYETİ",
+    "title": "Mühendislik. Yalın Yönetim. E-Mobilite.",
+    "subtitle": "50 yılı aşkın Mercedes, BMW, ZF, Continental ve Siemens DISW partnerlik tecrübesiyle otomotiv, havacılık ve savunma sanayiinde süreç mükemmelliği ve güç aktarım çözümleri.",
+    "ctaPrimary": "Proje Başlat",
+    "ctaSecondary": "Kurumsal Portföy"
+  },
+  "stats": {
+    "exp": "50+ Yıl",
+    "expSub": "OEM ve Tier-1 Saha Tecrübesi",
+    "audit": "%85",
+    "auditSub": "ASPICE Seviye 3 İlk Audit Başarısı",
+    "cost": "%40",
+    "costSub": "Tool2Tax Lisans Tasarrufu",
+    "fleet": "160B+",
+    "fleetSub": "Lvkon Sahada Aktif Araç Sayısı"
+  }
+}

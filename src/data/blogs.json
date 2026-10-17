@@ -1,0 +1,490 @@
+[
+  {
+    "id": "digital-twin-of-the-organization",
+    "title": "The Digital Twin of an Organization: Why Your Enterprise Needs a Living Model",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/digital-twin-of-the-organization.webp",
+    "excerpt": "---\nslug: digital-twin-of-the-organization\ntitle: \"The Digital Twin of an Organization: Why Your Enterprise Needs a Living Model\"\nauthors: [ayhanonal]\ntags: [\"E..."
+  },
+  {
+    "id": "zero-waste-compliance-audit-evidence",
+    "title": "Zero-Waste Compliance: How to Build Audit Evidence Without Creating Process Bloat",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/zero-waste-compliance-audit-evidence.webp",
+    "excerpt": "---\nslug: zero-waste-compliance-audit-evidence\ntitle: \"Zero-Waste Compliance: How to Build Audit Evidence Without Creating Process Bloat\"\nauthors: [ayhanonal]\nt..."
+  },
+  {
+    "id": "toolchain-consolidation-fewer-interfaces-less-risk",
+    "title": "Toolchain Consolidation: Fewer Tools, Fewer Interfaces, Less Risk",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/toolchain-consolidation-fewer-interfaces-less-risk.webp",
+    "excerpt": "---\nslug: toolchain-consolidation-fewer-interfaces-less-risk\ntitle: \"Toolchain Consolidation: Fewer Tools, Fewer Interfaces, Less Risk\"\nauthors: [ayhanonal]\ntag..."
+  },
+  {
+    "id": "audit-prep-permanent-readiness",
+    "title": "From Audit Prep to Permanent Readiness: A Practical Transition Path",
+    "category": "lvkon",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/audit-prep-permanent-readiness.webp",
+    "excerpt": "---\nslug: audit-prep-permanent-readiness\ntitle: \"From Audit Prep to Permanent Readiness: A Practical Transition Path\"\nauthors: [ayhanonal]\ntags: [\"Process Excel..."
+  },
+  {
+    "id": "fifteen-minute-release-velocity-rigor",
+    "title": "The 15-Minute Release: What Velocity Looks Like in High-Integrity Contexts",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/fifteen-minute-release-velocity-rigor.webp",
+    "excerpt": "---\nslug: fifteen-minute-release-velocity-rigor\ntitle: \"The 15-Minute Release: What Velocity Looks Like in High-Integrity Contexts\"\nauthors: [ayhanonal]\ntags: [..."
+  },
+  {
+    "id": "lean-product-development-high-integrity",
+    "title": "Lean Product Development for High-Integrity Hardware and Software",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/lean-product-development-high-integrity.webp",
+    "excerpt": "---\nslug: lean-product-development-high-integrity\ntitle: \"Lean Product Development for High-Integrity Hardware and Software\"\nauthors: [ayhanonal]\ntags: [\"Produc..."
+  },
+  {
+    "id": "configuration-management-radar-complex-change",
+    "title": "Configuration Management as a Radar for Complex Change",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/configuration-management-radar-complex-change.webp",
+    "excerpt": "---\nslug: configuration-management-radar-complex-change\ntitle: \"Configuration Management as a Radar for Complex Change\"\nauthors: [ayhanonal]\ntags: [\"Systems Eng..."
+  },
+  {
+    "id": "requirements-traceability-without-spaghetti-data",
+    "title": "Requirements Traceability Without Spaghetti Data",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/requirements-traceability-without-spaghetti-data.webp",
+    "excerpt": "---\nslug: requirements-traceability-without-spaghetti-data\ntitle: \"Requirements Traceability Without Spaghetti Data\"\nauthors: [ayhanonal]\ntags: [\"Systems Engine..."
+  },
+  {
+    "id": "finding-the-gap-iso-gap-identification-hidden-risk",
+    "title": "Finding the Gap: How ISO Gap Identification Reveals Hidden Risk",
+    "category": "lvkon",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/finding-the-gap-iso-gap-identification-hidden-risk.webp",
+    "excerpt": "---\nslug: finding-the-gap-iso-gap-identification-hidden-risk\ntitle: \"Finding the Gap: How ISO Gap Identification Reveals Hidden Risk\"\nauthors: [ayhanonal]\ntags:..."
+  },
+  {
+    "id": "nine-step-coaching-map-analysis-improvement",
+    "title": "The Nine-Step Coaching Map: A Structured Path from Analysis to Improvement",
+    "category": "lvkon",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/nine-step-coaching-map-analysis-improvement.webp",
+    "excerpt": "---\nslug: nine-step-coaching-map-analysis-improvement\ntitle: \"The Nine-Step Coaching Map: A Structured Path from Analysis to Improvement\"\nauthors: [ayhanonal]\nt..."
+  },
+  {
+    "id": "zero-technical-debt-clean-baseline",
+    "title": "Zero Technical Debt: Keeping the Baseline Clean for Innovation",
+    "category": "lvkon",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/zero-technical-debt-clean-baseline.webp",
+    "excerpt": "---\nslug: zero-technical-debt-clean-baseline\ntitle: \"Zero Technical Debt: Keeping the Baseline Clean for Innovation\"\nauthors: [ayhanonal]\ntags: [\"Systems Engine..."
+  },
+  {
+    "id": "findings-to-roadmap-audit-results-actionable-plans",
+    "title": "From Findings to Roadmap: Turning Audit Results into Actionable Plans",
+    "category": "lvkon",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/findings-to-roadmap-audit-results-actionable-plans.webp",
+    "excerpt": "---\nslug: findings-to-roadmap-audit-results-actionable-plans\ntitle: \"From Findings to Roadmap: Turning Audit Results into Actionable Plans\"\nauthors: [ayhanonal]..."
+  },
+  {
+    "id": "overcoming-barriers-process-initiatives",
+    "title": "Overcoming Barriers: Why Process Initiatives Stall and How to Unblock Them",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/overcoming-barriers-process-initiatives.webp",
+    "excerpt": "---\nslug: overcoming-barriers-process-initiatives\ntitle: \"Overcoming Barriers: Why Process Initiatives Stall and How to Unblock Them\"\nauthors: [ayhanonal]\ntags:..."
+  },
+  {
+    "id": "optimization-loops-fine-tuning-after-go-live",
+    "title": "Optimization Loops: Fine-Tuning Processes After Go-Live",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/optimization-loops-fine-tuning-after-go-live.webp",
+    "excerpt": "---\nslug: optimization-loops-fine-tuning-after-go-live\ntitle: \"Optimization Loops: Fine-Tuning Processes After Go-Live\"\nauthors: [ayhanonal]\ntags: [\"Process Exc..."
+  },
+  {
+    "id": "skills-gap-analysis-engineering-competence-control",
+    "title": "Skills Gap Analysis for Engineering Teams: Competence as a Control",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/skills-gap-analysis-engineering-competence-control.webp",
+    "excerpt": "---\nslug: skills-gap-analysis-engineering-competence-control\ntitle: \"Skills Gap Analysis for Engineering Teams: Competence as a Control\"\nauthors: [ayhanonal]\nta..."
+  },
+  {
+    "id": "standardized-processes-distributed-teams",
+    "title": "Standardized Processes for Distributed Teams: Consistency Across Sites",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/standardized-processes-distributed-teams.webp",
+    "excerpt": "---\nslug: standardized-processes-distributed-teams\ntitle: \"Standardized Processes for Distributed Teams: Consistency Across Sites\"\nauthors: [ayhanonal]\ntags: [\"..."
+  },
+  {
+    "id": "toolchain-evaluation-right-environment",
+    "title": "Toolchain Evaluation: Choosing the Right Environment for Your Process",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/toolchain-evaluation-right-environment.webp",
+    "excerpt": "---\nslug: toolchain-evaluation-right-environment\ntitle: \"Toolchain Evaluation: Choosing the Right Environment for Your Process\"\nauthors: [ayhanonal]\ntags: [\"Pro..."
+  },
+  {
+    "id": "coaching-mindset-team-process-ownership",
+    "title": "The Coaching Mindset: Helping Teams Own Their Processes",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/coaching-mindset-team-process-ownership.webp",
+    "excerpt": "---\nslug: coaching-mindset-team-process-ownership\ntitle: \"The Coaching Mindset: Helping Teams Own Their Processes\"\nauthors: [ayhanonal]\ntags: [\"Process Coaching..."
+  },
+  {
+    "id": "a-process-maturity-journey-from-ad-hoc-to-institutionalized-excellence",
+    "title": "A Process Maturity Journey: From Ad Hoc to Institutionalized Excellence",
+    "category": "lvkon",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/a-process-maturity-journey-from-ad-hoc-to-institutionalized-excellence.webp",
+    "excerpt": "---\nslug: a-process-maturity-journey-from-ad-hoc-to-institutionalized-excellence\ntitle: \"A Process Maturity Journey: From Ad Hoc to Institutionalized Excellence..."
+  },
+  {
+    "id": "data-integrity-in-medtech-why-your-engineering-data-is-a-safety-artifact",
+    "title": "Data Integrity in MedTech: Why Your Engineering Data Is a Safety Artifact",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/data-integrity-in-medtech-why-your-engineering-data-is-a-safety-artifact.webp",
+    "excerpt": "---\nslug: data-integrity-in-medtech-why-your-engineering-data-is-a-safety-artifact\ntitle: \"Data Integrity in MedTech: Why Your Engineering Data Is a Safety Arti..."
+  },
+  {
+    "id": "from-consultant-dependent-to-self-reliant-transferring-capability",
+    "title": "From Consultant-Dependent to Self-Reliant: Transferring Capability",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/from-consultant-dependent-to-self-reliant-transferring-capability.webp",
+    "excerpt": "---\nslug: from-consultant-dependent-to-self-reliant-transferring-capability\ntitle: \"From Consultant-Dependent to Self-Reliant: Transferring Capability\"\nauthors:..."
+  },
+  {
+    "id": "measuring-coaching-impact-what-changes-after-a-process-intervention",
+    "title": "Measuring Coaching Impact: What Changes After a Process Intervention",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/measuring-coaching-impact-what-changes-after-a-process-intervention.webp",
+    "excerpt": "---\nslug: measuring-coaching-impact-what-changes-after-a-process-intervention\ntitle: \"Measuring Coaching Impact: What Changes After a Process Intervention\"\nauth..."
+  },
+  {
+    "id": "pilot-projects-and-learning-loops-de-risking-process-rollouts",
+    "title": "Pilot Projects and Learning Loops: De-risking Process Rollouts",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/pilot-projects-and-learning-loops-de-risking-process-rollouts.webp",
+    "excerpt": "---\nslug: pilot-projects-and-learning-loops-de-risking-process-rollouts\ntitle: \"Pilot Projects and Learning Loops: De-risking Process Rollouts\"\nauthors: [ayhano..."
+  },
+  {
+    "id": "process-architecture-for-regulated-industries-designing-for-compliance-and-flow",
+    "title": "Process Architecture for Regulated Industries: Designing for Compliance and Flow",
+    "category": "lvkon",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/process-architecture-for-regulated-industries-designing-for-compliance-and-flow.webp",
+    "excerpt": "---\nslug: process-architecture-for-regulated-industries-designing-for-compliance-and-flow\ntitle: \"Process Architecture for Regulated Industries: Designing for C..."
+  },
+  {
+    "id": "scaling-compliance-for-complex-systems-from-component-to-platform",
+    "title": "Scaling Compliance for Complex Systems: From Component to Platform",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/scaling-compliance-for-complex-systems-from-component-to-platform.webp",
+    "excerpt": "---\nslug: scaling-compliance-for-complex-systems-from-component-to-platform\ntitle: \"Scaling Compliance for Complex Systems: From Component to Platform\"\nauthors:..."
+  },
+  {
+    "id": "secure-by-architecture-embedding-iso-21434-thinking-into-development",
+    "title": "Secure by Architecture: Embedding ISO 21434 Thinking into Development",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/secure-by-architecture-embedding-iso-21434-thinking-into-development.webp",
+    "excerpt": "---\nslug: secure-by-architecture-embedding-iso-21434-thinking-into-development\ntitle: \"Secure by Architecture: Embedding ISO 21434 Thinking into Development\"\nau..."
+  },
+  {
+    "id": "stakeholder-alignment-getting-leadership-buy-in-for-process-change",
+    "title": "Stakeholder Alignment: Getting Leadership Buy-In for Process Change",
+    "category": "lvkon",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/stakeholder-alignment-getting-leadership-buy-in-for-process-change.webp",
+    "excerpt": "---\nslug: stakeholder-alignment-getting-leadership-buy-in-for-process-change\ntitle: \"Stakeholder Alignment: Getting Leadership Buy-In for Process Change\"\nauthor..."
+  },
+  {
+    "id": "sustaining-improvement-preventing-process-regression-over-time",
+    "title": "Sustaining Improvement: Preventing Process Regression Over Time",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/sustaining-improvement-preventing-process-regression-over-time.webp",
+    "excerpt": "---\nslug: sustaining-improvement-preventing-process-regression-over-time\ntitle: \"Sustaining Improvement: Preventing Process Regression Over Time\"\nauthors: [ayha..."
+  },
+  {
+    "id": "the-human-side-of-deployment-training-communication-and-support",
+    "title": "The Human Side of Deployment: Training, Communication, and Support",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/the-human-side-of-deployment-training-communication-and-support.webp",
+    "excerpt": "---\nslug: the-human-side-of-deployment-training-communication-and-support\ntitle: \"The Human Side of Deployment: Training, Communication, and Support\"\nauthors: [..."
+  },
+  {
+    "id": "the-verification-strategy-proving-your-system-does-what-it-claims",
+    "title": "The Verification Strategy: Proving Your System Does What It Claims",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/the-verification-strategy-proving-your-system-does-what-it-claims.webp",
+    "excerpt": "---\nslug: the-verification-strategy-proving-your-system-does-what-it-claims\ntitle: \"The Verification Strategy: Proving Your System Does What It Claims\"\nauthors:..."
+  },
+  {
+    "id": "as9100-aerospace-quality",
+    "title": "AS9100 for Aerospace Quality: What the Standard Really Asks",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/as9100-aerospace-quality.webp",
+    "excerpt": "---\nslug: as9100-aerospace-quality\ntitle: \"AS9100 for Aerospace Quality: What the Standard Really Asks\"\nauthors: [ayhanonal]\ntags: [\"Aerospace Quality\", \"beeneo..."
+  },
+  {
+    "id": "as9100-configuration-management",
+    "title": "AS9100 Configuration Management: Lessons for Modern Engineering",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/as9100-configuration-management.webp",
+    "excerpt": "---\nslug: as9100-configuration-management\ntitle: \"AS9100 Configuration Management: Lessons for Modern Engineering\"\nauthors: [ayhanonal]\ntags: [\"Aerospace Qualit..."
+  },
+  {
+    "id": "beyond-waterfall-medtech-hybrid-delivery-models",
+    "title": "Beyond Waterfall: Hybrid Delivery Models for MedTech",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/beyond-waterfall-medtech-hybrid-delivery-models.webp",
+    "excerpt": "---\nslug: beyond-waterfall-medtech-hybrid-delivery-models\ntitle: \"Beyond Waterfall: Hybrid Delivery Models for MedTech\"\nauthors: [ayhanonal]\ntags: [\"MedTech Pro..."
+  },
+  {
+    "id": "business-case-lean-compliance-cost-center-speed",
+    "title": "The Business Case for Lean Compliance: From Cost Center to Speed Advantage",
+    "category": "lvkon",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/business-case-lean-compliance-cost-center-speed.webp",
+    "excerpt": "---\nslug: business-case-lean-compliance-cost-center-speed\ntitle: \"The Business Case for Lean Compliance: From Cost Center to Speed Advantage\"\nauthors: [ayhanona..."
+  },
+  {
+    "id": "competence-management-high-integrity-systems",
+    "title": "Competence Management in High-Integrity Systems",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/competence-management-high-integrity-systems.webp",
+    "excerpt": "---\nslug: competence-management-high-integrity-systems\ntitle: \"Competence Management in High-Integrity Systems\"\nauthors: [ayhanonal]\ntags: [\"Competence Manageme..."
+  },
+  {
+    "id": "compliance-by-design-lean-ea",
+    "title": "Compliance by Design: When the Evidence Is a Byproduct of the Work",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/compliance-by-design-lean-ea.webp",
+    "excerpt": "---\nslug: compliance-by-design-lean-ea\ntitle: \"Compliance by Design: When the Evidence Is a Byproduct of the Work\"\nauthors: [ayhanonal]\ntags: [\"Enterprise Archi..."
+  },
+  {
+    "id": "configuration-management-regulated-development",
+    "title": "Configuration Management in Regulated Development: The Discipline Behind Every Audit Answer",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/configuration-management-regulated-development.webp",
+    "excerpt": "---\nslug: configuration-management-regulated-development\ntitle: \"Configuration Management in Regulated Development: The Discipline Behind Every Audit Answer\"\nau..."
+  },
+  {
+    "id": "digital-thread-aerospace",
+    "title": "The Digital Thread in Aerospace: Connecting Data from Concept to Retirement",
+    "category": "lvkon",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/digital-thread-aerospace.webp",
+    "excerpt": "---\nslug: digital-thread-aerospace\ntitle: \"The Digital Thread in Aerospace: Connecting Data from Concept to Retirement\"\nauthors: [ayhanonal]\ntags: [\"Aerospace E..."
+  },
+  {
+    "id": "digital-twin-compliance-evidence",
+    "title": "The Digital Twin as Compliance Evidence: From Concept to Field",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/digital-twin-compliance-evidence.webp",
+    "excerpt": "---\nslug: digital-twin-compliance-evidence\ntitle: \"The Digital Twin as Compliance Evidence: From Concept to Field\"\nauthors: [ayhanonal]\ntags: [\"Enterprise Archi..."
+  },
+  {
+    "id": "document-management-regulated-environments",
+    "title": "Document Management in Regulated Environments: Less Paper, More Integrity",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/document-management-regulated-environments.webp",
+    "excerpt": "---\nslug: document-management-regulated-environments\ntitle: \"Document Management in Regulated Environments: Less Paper, More Integrity\"\nauthors: [ayhanonal]\ntag..."
+  },
+  {
+    "id": "edgy-sense-making-tool",
+    "title": "EDGY as a Sense-Making Tool: One Language for Business, Experience and Architecture",
+    "category": "lvkon",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/edgy-sense-making-tool.webp",
+    "excerpt": "---\nslug: edgy-sense-making-tool\ntitle: \"EDGY as a Sense-Making Tool: One Language for Business, Experience and Architecture\"\nauthors: [ayhanonal]\ntags: [\"Enter..."
+  },
+  {
+    "id": "first-time-right-engineering-quality-sprint",
+    "title": "First Time Right: Engineering Quality into the Sprint",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/first-time-right-engineering-quality-sprint.webp",
+    "excerpt": "---\nslug: first-time-right-engineering-quality-sprint\ntitle: \"First Time Right: Engineering Quality into the Sprint\"\nauthors: [ayhanonal]\ntags: [\"Delivery Excel..."
+  },
+  {
+    "id": "high-velocity-engineering-engine",
+    "title": "The High-Velocity Engineering Engine: Lean EA, Lifecycle Backbone and Lean PDCA",
+    "category": "lvkon",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/high-velocity-engineering-engine.webp",
+    "excerpt": "---\nslug: high-velocity-engineering-engine\ntitle: \"The High-Velocity Engineering Engine: Lean EA, Lifecycle Backbone and Lean PDCA\"\nauthors: [ayhanonal]\ntags: [..."
+  },
+  {
+    "id": "iso9001-seven-principles-quality-management-agile",
+    "title": "The Seven Quality Management Principles, Revisited for Agile Delivery",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/iso9001-seven-principles-quality-management-agile.webp",
+    "excerpt": "---\nslug: iso9001-seven-principles-quality-management-agile\ntitle: \"The Seven Quality Management Principles, Revisited for Agile Delivery\"\nauthors: [ayhanonal]..."
+  },
+  {
+    "id": "iso9001-standards-hierarchy-integrated-management",
+    "title": "ISO 9001 and the Standards Hierarchy: Building an Integrated Management System",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/iso9001-standards-hierarchy-integrated-management.webp",
+    "excerpt": "---\nslug: iso9001-standards-hierarchy-integrated-management\ntitle: \"ISO 9001 and the Standards Hierarchy: Building an Integrated Management System\"\nauthors: [ay..."
+  },
+  {
+    "id": "open-source-toolchains-regulated-development",
+    "title": "Open Source Toolchains in Regulated Development: Zero License Cost Does Not Mean Zero Quality",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/open-source-toolchains-regulated-development.webp",
+    "excerpt": "---\nslug: open-source-toolchains-regulated-development\ntitle: \"Open Source Toolchains in Regulated Development: Zero License Cost Does Not Mean Zero Quality\"\nau..."
+  },
+  {
+    "id": "ota-update-governance-safety-critical-systems",
+    "title": "OTA Update Governance for Safety-Critical Systems",
+    "category": "lvkon",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/ota-update-governance-safety-critical-systems.webp",
+    "excerpt": "---\nslug: ota-update-governance-safety-critical-systems\ntitle: \"OTA Update Governance for Safety-Critical Systems\"\nauthors: [ayhanonal]\ntags: [\"Cybersecurity En..."
+  },
+  {
+    "id": "pdca-agile-sprints-regulated-development",
+    "title": "PDCA and Agile Sprints: One Control Loop, Two Time Scales",
+    "category": "lvkon",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/pdca-agile-sprints-regulated-development.webp",
+    "excerpt": "---\nslug: pdca-agile-sprints-regulated-development\ntitle: \"PDCA and Agile Sprints: One Control Loop, Two Time Scales\"\nauthors: [ayhanonal]\ntags: [\"Continuous Im..."
+  },
+  {
+    "id": "pdca-original-agile-cycle-regulated-development",
+    "title": "PDCA: The Original Agile Cycle in Regulated Development",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/pdca-original-agile-cycle-regulated-development.webp",
+    "excerpt": "---\nslug: pdca-original-agile-cycle-regulated-development\ntitle: \"PDCA: The Original Agile Cycle in Regulated Development\"\nauthors: [ayhanonal]\ntags: [\"Continuo..."
+  },
+  {
+    "id": "risk-based-thinking-medtech-patient-safety",
+    "title": "Risk-Based Thinking in MedTech: From Compliance Artifact to Patient Safety Culture",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/risk-based-thinking-medtech-patient-safety.webp",
+    "excerpt": "---\nslug: risk-based-thinking-medtech-patient-safety\ntitle: \"Risk-Based Thinking in MedTech: From Compliance Artifact to Patient Safety Culture\"\nauthors: [ayhan..."
+  },
+  {
+    "id": "risk-based-thinking-supplier-quality",
+    "title": "Risk-Based Thinking: From Compliance Exercise to Design Input",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/risk-based-thinking-supplier-quality.webp",
+    "excerpt": "---\nslug: risk-based-thinking-supplier-quality\ntitle: \"Risk-Based Thinking: From Compliance Exercise to Design Input\"\nauthors: [ayhanonal]\ntags: [\"Quality Manag..."
+  },
+  {
+    "id": "supplier-quality-global-supply-chain",
+    "title": "Supplier Quality in a Global Supply Chain: Relationship Management as Risk Control",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/supplier-quality-global-supply-chain.webp",
+    "excerpt": "---\nslug: supplier-quality-global-supply-chain\ntitle: \"Supplier Quality in a Global Supply Chain: Relationship Management as Risk Control\"\nauthors: [ayhanonal]..."
+  },
+  {
+    "id": "the-coaching-map-nine-steps",
+    "title": "The Coaching Map: Nine Steps from Analysis to Continuous Growth",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/the-coaching-map-nine-steps.webp",
+    "excerpt": "---\nslug: the-coaching-map-nine-steps\ntitle: \"The Coaching Map: Nine Steps from Analysis to Continuous Growth\"\nauthors: [ayhanonal]\ntags: [\"Process Coaching\", \"..."
+  },
+  {
+    "id": "three-pillars-integrated-management-systems",
+    "title": "The Three Pillars of Integrated Management Systems",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/three-pillars-integrated-management-systems.webp",
+    "excerpt": "---\nslug: three-pillars-integrated-management-systems\ntitle: \"The Three Pillars of Integrated Management Systems\"\nauthors: [ayhanonal]\ntags: [\"Management System..."
+  },
+  {
+    "id": "tool-qualification-trusting-engineering-environment",
+    "title": "Tool Qualification: Learning to Trust Your Engineering Environment",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/tool-qualification-trusting-engineering-environment.webp",
+    "excerpt": "---\nslug: tool-qualification-trusting-engineering-environment\ntitle: \"Tool Qualification: Learning to Trust Your Engineering Environment\"\nauthors: [ayhanonal]\nt..."
+  },
+  {
+    "id": "traceability-hidden-cost-aspice-audit",
+    "title": "Traceability: The Hidden Cost That Makes or Breaks an ASPICE Audit",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/traceability-hidden-cost-aspice-audit.webp",
+    "excerpt": "---\nslug: traceability-hidden-cost-aspice-audit\ntitle: \"Traceability: The Hidden Cost That Makes or Breaks an ASPICE Audit\"\nauthors: [ayhanonal]\ntags: [\"ASPICE..."
+  },
+  {
+    "id": "why-one-size-fits-all-fails-regulated-development",
+    "title": "Why One Size Fits All Fails in Regulated Development",
+    "category": "lvkon",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/why-one-size-fits-all-fails-regulated-development.webp",
+    "excerpt": "---\nslug: why-one-size-fits-all-fails-regulated-development\ntitle: \"Why One Size Fits All Fails in Regulated Development\"\nauthors: [ayhanonal]\ntags: [\"Smart Lea..."
+  },
+  {
+    "id": "zero-cost-toolchain-vision",
+    "title": "The Zero-Cost Toolchain Vision: Professional Engineering Without the License Treadmill",
+    "category": "lvkon",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/zero-cost-toolchain-vision.webp",
+    "excerpt": "---\nslug: zero-cost-toolchain-vision\ntitle: \"The Zero-Cost Toolchain Vision: Professional Engineering Without the License Treadmill\"\nauthors: [ayhanonal]\ntags:..."
+  },
+  {
+    "id": "zero-defect-culture-iatf-aspice",
+    "title": "Zero-Defect Culture: What IATF 16949 and ASPICE Expect Together",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/zero-defect-culture-iatf-aspice.webp",
+    "excerpt": "---\nslug: zero-defect-culture-iatf-aspice\ntitle: \"Zero-Defect Culture: What IATF 16949 and ASPICE Expect Together\"\nauthors: [ayhanonal]\ntags: [\"Automotive Proce..."
+  },
+  {
+    "id": "zero-waste-auditor-smart-lean-internal-audits",
+    "title": "The Zero-Waste Auditor: Smart Lean Internal Audits",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/zero-waste-auditor-smart-lean-internal-audits.webp",
+    "excerpt": "---\nslug: zero-waste-auditor-smart-lean-internal-audits\ntitle: \"The Zero-Waste Auditor: Smart Lean Internal Audits\"\nauthors: [ayhanonal]\ntags: [\"Audit Practice\"..."
+  },
+  {
+    "id": "index",
+    "title": "Intelligent Lean Management.Powered by AI.",
+    "category": "engineering",
+    "mediaType": "image",
+    "mediaUrl": "/img/blog/index.webp",
+    "excerpt": "---\nslug: index\ntitle: \"Intelligent Lean Management.Powered by AI.\"\nauthors: [ayhanonal]\ntags: [\"beeneo\"]\ndate: 2026-10-15\nimage: /img/blog/default-cover.jpg\n--..."
+  }
+]
